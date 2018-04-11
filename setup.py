@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Test comment
+
 from os.path import join, dirname
 
 from setuptools import setup
